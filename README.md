@@ -38,9 +38,12 @@ git -C ~/.claude/skills/ollyo-design-review pull
 ```
 
 ### Claude.ai / Claude Desktop
-1. On GitHub: **Code → Download ZIP**.
-2. In Claude: **Settings → Capabilities → Skills → Upload skill**, and choose the ZIP.
-3. To update, delete the old skill and upload the new ZIP.
+1. Download **[ollyo-design-review.zip](https://github.com/iShowkot/ollyo-design-review/releases/latest/download/ollyo-design-review.zip)**
+   (always the latest release; all versions are on the [Releases page](https://github.com/iShowkot/ollyo-design-review/releases)).
+   Please use this link rather than **Code → Download ZIP**, because it lets us count installs.
+2. In Claude: **Settings → Capabilities**. Make sure **Code execution and file creation** is on.
+3. Under **Skills**, click **Upload skill** and choose the ZIP.
+4. To update, delete the old skill and upload the new ZIP from the same link.
 
 (Menu names may move. Look for "Skills" in Claude's settings.)
 
@@ -73,6 +76,7 @@ products/
 templates/
   review-output.md        Exact output format
 scripts/bundle.sh         Builds dist/ single-file version
+scripts/package.sh        Builds the release ZIP for Claude.ai
 dist/                     Generated bundle for non-Claude tools
 ```
 
@@ -86,6 +90,29 @@ dist/                     Generated bundle for non-Claude tools
   and fill it in. Add the product to the description in `SKILL.md` and to the list above.
 - **Adding a hard fail:** Add a row to `rubrics/hard-fails.md`. Keep it objective and checkable.
 - **After any edit:** Run `./scripts/bundle.sh` and commit `dist/` so non-Claude users get the update.
+
+### Publishing a release
+Designers install from the latest release, so publish one after each meaningful change:
+
+1. Add a version entry to `CHANGELOG.md` (e.g. `0.2.0`).
+2. On GitHub: **Releases → Draft a new release**, create tag `v0.2.0` on `main`,
+   paste the changelog entry, and click **Publish release**.
+3. A GitHub Action (`.github/workflows/release.yml`) builds
+   `ollyo-design-review.zip` and attaches it to the release within a minute or two.
+   Check the release page to confirm the file is there.
+
+To build the ZIP locally instead (e.g. to test an upload), run `./scripts/package.sh`.
+
+### Download counts
+GitHub counts downloads of release files but only shows them through its API:
+
+```bash
+gh api repos/iShowkot/ollyo-design-review/releases \
+  --jq '.[] | "\(.tag_name): \([.assets[].download_count] | add) downloads"'
+```
+
+Clones (Claude Code installs) and page views for the last 14 days are under
+**Insights → Traffic**. "Code → Download ZIP" downloads are not counted anywhere.
 
 ### ⚠️ This repo is public
 Brand colors, tone and audience descriptions are fine to include. **Never add** internal
