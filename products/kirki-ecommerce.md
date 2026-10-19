@@ -27,7 +27,12 @@ _TODO: confirm scope (standalone vs. Kirki add-on, WooCommerce relationship, fea
 - **Is not:** Generic "online store" clip-art; discount-store visuals.
 
 ## Brand visuals
-- Follows Kirki brand. **Primary colors:** `#______` (TODO: confirm). **Fonts:** TODO.
+_Source: Ollyo BAM (brand asset manager), pulled 2026-10-19. Logos, favicons and guideline PDFs live there; it is the source of truth if this file disagrees._
+
+- **Official tagline:** _TODO: not in BAM yet_
+- **Follows Kirki brand** (no separate entry in BAM yet). **Primary:** `#5641F3` (violet)
+- **Secondary:** `#33B033` (green)
+- **Fonts:** TODO
 - **Logo:** "Kirki" plus eCommerce naming as officially written (TODO: confirm exact name/casing).
 - **Imagery style:** Beautiful store designs and product page UI built with Kirki; real-looking products.
 

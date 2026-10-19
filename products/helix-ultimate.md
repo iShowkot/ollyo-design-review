@@ -30,8 +30,10 @@ This file also covers **Joomla templates built on Helix Ultimate.**
 - **Is not:** Flashy without substance; WordPress-flavored.
 
 ## Brand visuals
-- **Primary colors:** `#______` (TODO: confirm)
-- **Secondary / accent:** `#______` (TODO: confirm)
+_Source: Ollyo BAM (brand asset manager), pulled 2026-10-19. Logos, favicons and guideline PDFs live there; it is the source of truth if this file disagrees._
+
+- **Official tagline:** _TODO: not in BAM yet_
+- **No Helix Ultimate entry in BAM yet (TODO).** Until added, use the parent JoomShaper brand: **Primary** `#0E1DEC`; **Secondary** `#3071FF`, `#FF7416`, `#6DE8BD`
 - **Fonts:** TODO
 - **Logo:** Spelled "Helix Ultimate".
 - **Imagery style:** Framework/settings UI; for templates, large high-quality template screenshots in device mockups.

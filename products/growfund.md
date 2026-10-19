@@ -29,8 +29,12 @@ roles and a modern React-based dashboard. Same team as Tutor LMS.
 - **Is not:** Salesy, flashy-tech, cold-corporate, or exploitative of hardship imagery.
 
 ## Brand visuals
-- **Primary colors:** `#______` (TODO: confirm)
-- **Secondary / accent:** `#______` (TODO: confirm)
+_Source: Ollyo BAM (brand asset manager), pulled 2026-10-19. Logos, favicons and guideline PDFs live there; it is the source of truth if this file disagrees._
+
+- **Official tagline:** The complete donation crowdfunding solution for WordPress
+- **Primary:** `#179647` (green), `#A7F042` (lime)
+- **Accent:** `#FF6600` (orange)
+- **Neutral:** `#AE80FF` (lavender)
 - **Fonts:** TODO
 - **Logo:** Spelled "Growfund" (one word, capital G only). Do not use the old "WP Crowdfunding" name except in "formerly WP Crowdfunding" context.
 - **Imagery style:** Real people, communities, positive impact; campaign UI with progress bars and goals.

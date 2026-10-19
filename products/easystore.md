@@ -29,8 +29,12 @@ and multilingual stores. It integrates with SP Page Builder for storefront and p
 - **Is not:** Technical, complicated, or enterprise-heavy.
 
 ## Brand visuals
-- **Primary colors:** `#______` (TODO: confirm)
-- **Secondary / accent:** `#______` (TODO: confirm)
+_Source: Ollyo BAM (brand asset manager), pulled 2026-10-19. Logos, favicons and guideline PDFs live there; it is the source of truth if this file disagrees._
+
+- **Official tagline:** The Ultimate eCommerce Extension for Joomla
+- **Primary:** `#046151` (deep green), `#FFD752` (yellow), `#FFEB98` (light yellow), `#FEF6E3` (cream), `#000000` (black)
+- **Secondary:** `#A6F021` (lime), `#9E6FEF` (violet)
+- **Parent brand (JoomShaper):** `#0E1DEC`, `#3071FF`, `#FF7416`, `#6DE8BD`
 - **Fonts:** TODO
 - **Logo:** Spelled "EasyStore" (one word, capital E and S).
 - **Imagery style:** Clean storefront and product page UI, dashboard and sales screens, real-looking products.

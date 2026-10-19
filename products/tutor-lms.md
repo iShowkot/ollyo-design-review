@@ -30,8 +30,11 @@ monetization and multi-instructor marketplaces. Free core plus Pro.
 - **Is not:** Corporate, cold, developer-jargon heavy, or "enterprise compliance" in feel.
 
 ## Brand visuals
-- **Primary colors:** `#______` (TODO: confirm. Tutor LMS uses a bright blue as its signature color.)
-- **Secondary / accent:** `#______` (TODO: confirm)
+_Source: Ollyo BAM (brand asset manager), pulled 2026-10-19. Logos, favicons and guideline PDFs live there; it is the source of truth if this file disagrees._
+
+- **Official tagline:** eLearning solution that works for you
+- **Primary:** `#2151ED` (blue)
+- **Secondary:** `#FFAA01` (amber), `#009354` (green), `#7C5BFF` (violet), `#FF6575` (coral)
 - **Fonts:** TODO
 - **Logo:** Spelled "Tutor LMS" (two words, LMS in caps).
 - **Imagery style:** Real people teaching and learning, course/dashboard UI shots, warm and bright. Avoid generic office stock photos.

@@ -381,8 +381,12 @@ and multilingual stores. It integrates with SP Page Builder for storefront and p
 - **Is not:** Technical, complicated, or enterprise-heavy.
 
 ## Brand visuals
-- **Primary colors:** `#______` (TODO: confirm)
-- **Secondary / accent:** `#______` (TODO: confirm)
+_Source: Ollyo BAM (brand asset manager), pulled 2026-10-19. Logos, favicons and guideline PDFs live there; it is the source of truth if this file disagrees._
+
+- **Official tagline:** The Ultimate eCommerce Extension for Joomla
+- **Primary:** `#046151` (deep green), `#FFD752` (yellow), `#FFEB98` (light yellow), `#FEF6E3` (cream), `#000000` (black)
+- **Secondary:** `#A6F021` (lime), `#9E6FEF` (violet)
+- **Parent brand (JoomShaper):** `#0E1DEC`, `#3071FF`, `#FF7416`, `#6DE8BD`
 - **Fonts:** TODO
 - **Logo:** Spelled "EasyStore" (one word, capital E and S).
 - **Imagery style:** Clean storefront and product page UI, dashboard and sales screens, real-looking products.
@@ -436,8 +440,12 @@ roles and a modern React-based dashboard. Same team as Tutor LMS.
 - **Is not:** Salesy, flashy-tech, cold-corporate, or exploitative of hardship imagery.
 
 ## Brand visuals
-- **Primary colors:** `#______` (TODO: confirm)
-- **Secondary / accent:** `#______` (TODO: confirm)
+_Source: Ollyo BAM (brand asset manager), pulled 2026-10-19. Logos, favicons and guideline PDFs live there; it is the source of truth if this file disagrees._
+
+- **Official tagline:** The complete donation crowdfunding solution for WordPress
+- **Primary:** `#179647` (green), `#A7F042` (lime)
+- **Accent:** `#FF6600` (orange)
+- **Neutral:** `#AE80FF` (lavender)
 - **Fonts:** TODO
 - **Logo:** Spelled "Growfund" (one word, capital G only). Do not use the old "WP Crowdfunding" name except in "formerly WP Crowdfunding" context.
 - **Imagery style:** Real people, communities, positive impact; campaign UI with progress bars and goals.
@@ -493,8 +501,10 @@ This file also covers **Joomla templates built on Helix Ultimate.**
 - **Is not:** Flashy without substance; WordPress-flavored.
 
 ## Brand visuals
-- **Primary colors:** `#______` (TODO: confirm)
-- **Secondary / accent:** `#______` (TODO: confirm)
+_Source: Ollyo BAM (brand asset manager), pulled 2026-10-19. Logos, favicons and guideline PDFs live there; it is the source of truth if this file disagrees._
+
+- **Official tagline:** _TODO: not in BAM yet_
+- **No Helix Ultimate entry in BAM yet (TODO).** Until added, use the parent JoomShaper brand: **Primary** `#0E1DEC`; **Secondary** `#3071FF`, `#FF7416`, `#6DE8BD`
 - **Fonts:** TODO
 - **Logo:** Spelled "Helix Ultimate".
 - **Imagery style:** Framework/settings UI; for templates, large high-quality template screenshots in device mockups.
@@ -530,7 +540,7 @@ timeline and a popup builder (Pro). It works with any theme. Free core plus Kirk
 ## Who the users are
 - **Primary:** Web designers and creative freelancers who want design freedom inside WordPress (often coming from Figma or Webflow-style tools).
 - **Secondary:** Agencies building client sites; theme developers using the Kirki customizer framework; ambitious DIY site owners.
-- **Technical level:** Design-savvy; moderate to high. They care about craft.
+- **Technical level:** No-code (the official tagline is "No-Code Site Builder"), but design-savvy. They care about craft, not code.
 
 ## What they care about
 - Creative freedom: pixel-level control, no layout restrictions.
@@ -545,11 +555,14 @@ timeline and a popup builder (Pro). It works with any theme. Free core plus Kirk
 
 ## Tone & voice
 - **Is:** Confident, modern, creative, design-forward. Speaks designer language (canvas, interactions, freedom).
-- **Is not:** Beginner-hand-holding, cluttered, "cheap page builder" or template-mill feel.
+- **Is not:** Code-heavy or developer-jargon, cluttered, "cheap page builder" or template-mill feel.
 
 ## Brand visuals
-- **Primary colors:** `#______` (TODO: confirm)
-- **Secondary / accent:** `#______` (TODO: confirm)
+_Source: Ollyo BAM (brand asset manager), pulled 2026-10-19. Logos, favicons and guideline PDFs live there; it is the source of truth if this file disagrees._
+
+- **Official tagline:** No-Code Site Builder for WordPress
+- **Primary:** `#5641F3` (violet)
+- **Secondary:** `#33B033` (green)
 - **Fonts:** TODO
 - **Logo:** Spelled "Kirki".
 - **Imagery style:** Polished builder UI, canvas shots, showcase sites built with Kirki. Bold, contemporary layouts. **The design itself must look high-craft, because the audience is designers.**
@@ -602,7 +615,12 @@ _TODO: confirm scope (standalone vs. Kirki add-on, WooCommerce relationship, fea
 - **Is not:** Generic "online store" clip-art; discount-store visuals.
 
 ## Brand visuals
-- Follows Kirki brand. **Primary colors:** `#______` (TODO: confirm). **Fonts:** TODO.
+_Source: Ollyo BAM (brand asset manager), pulled 2026-10-19. Logos, favicons and guideline PDFs live there; it is the source of truth if this file disagrees._
+
+- **Official tagline:** _TODO: not in BAM yet_
+- **Follows Kirki brand** (no separate entry in BAM yet). **Primary:** `#5641F3` (violet)
+- **Secondary:** `#33B033` (green)
+- **Fonts:** TODO
 - **Logo:** "Kirki" plus eCommerce naming as officially written (TODO: confirm exact name/casing).
 - **Imagery style:** Beautiful store designs and product page UI built with Kirki; real-looking products.
 
@@ -653,8 +671,12 @@ ready layouts and frontend editing, and integrates with EasyStore for store page
 - **Is not:** Overly technical, or WordPress-flavored (this is a Joomla audience).
 
 ## Brand visuals
-- **Primary colors:** `#______` (TODO: confirm)
-- **Secondary / accent:** `#______` (TODO: confirm)
+_Source: Ollyo BAM (brand asset manager), pulled 2026-10-19. Logos, favicons and guideline PDFs live there; it is the source of truth if this file disagrees._
+
+- **Official tagline:** An extremely powerful drag & drop tool that lets you build sites visually and instantly.
+- **Primary:** `#2684FF` (blue)
+- **Secondary:** `#0EE8B1` (mint), `#FF7416` (orange)
+- **Parent brand (JoomShaper):** `#0E1DEC`, `#3071FF`, `#FF7416`, `#6DE8BD`
 - **Fonts:** TODO
 - **Logo:** Spelled "SP Page Builder".
 - **Imagery style:** Builder UI, before/after or layout showcases, addon grids.
@@ -708,8 +730,11 @@ monetization and multi-instructor marketplaces. Free core plus Pro.
 - **Is not:** Corporate, cold, developer-jargon heavy, or "enterprise compliance" in feel.
 
 ## Brand visuals
-- **Primary colors:** `#______` (TODO: confirm. Tutor LMS uses a bright blue as its signature color.)
-- **Secondary / accent:** `#______` (TODO: confirm)
+_Source: Ollyo BAM (brand asset manager), pulled 2026-10-19. Logos, favicons and guideline PDFs live there; it is the source of truth if this file disagrees._
+
+- **Official tagline:** eLearning solution that works for you
+- **Primary:** `#2151ED` (blue)
+- **Secondary:** `#FFAA01` (amber), `#009354` (green), `#7C5BFF` (violet), `#FF6575` (coral)
 - **Fonts:** TODO
 - **Logo:** Spelled "Tutor LMS" (two words, LMS in caps).
 - **Imagery style:** Real people teaching and learning, course/dashboard UI shots, warm and bright. Avoid generic office stock photos.

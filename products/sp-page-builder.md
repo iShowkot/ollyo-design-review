@@ -28,8 +28,12 @@ ready layouts and frontend editing, and integrates with EasyStore for store page
 - **Is not:** Overly technical, or WordPress-flavored (this is a Joomla audience).
 
 ## Brand visuals
-- **Primary colors:** `#______` (TODO: confirm)
-- **Secondary / accent:** `#______` (TODO: confirm)
+_Source: Ollyo BAM (brand asset manager), pulled 2026-10-19. Logos, favicons and guideline PDFs live there; it is the source of truth if this file disagrees._
+
+- **Official tagline:** An extremely powerful drag & drop tool that lets you build sites visually and instantly.
+- **Primary:** `#2684FF` (blue)
+- **Secondary:** `#0EE8B1` (mint), `#FF7416` (orange)
+- **Parent brand (JoomShaper):** `#0E1DEC`, `#3071FF`, `#FF7416`, `#6DE8BD`
 - **Fonts:** TODO
 - **Logo:** Spelled "SP Page Builder".
 - **Imagery style:** Builder UI, before/after or layout showcases, addon grids.
