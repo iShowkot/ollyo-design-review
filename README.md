@@ -1,5 +1,8 @@
 # Ollyo Design Review
 
+[![Downloads](https://img.shields.io/github/downloads/iShowkot/ollyo-design-review/total?label=downloads)](https://github.com/iShowkot/ollyo-design-review/releases)
+[![Latest release](https://img.shields.io/github/v/release/iShowkot/ollyo-design-review?label=latest)](https://github.com/iShowkot/ollyo-design-review/releases/latest)
+
 An AI skill that reviews design work for Ollyo products and gives each design two
 scores out of 10:
 
@@ -104,7 +107,8 @@ Designers install from the latest release, so publish one after each meaningful 
 To build the ZIP locally instead (e.g. to test an upload), run `./scripts/package.sh`.
 
 ### Download counts
-GitHub counts downloads of release files but only shows them through its API:
+The **downloads** badge at the top of this README shows the running total of release ZIP
+downloads (it may lag by a few minutes). For a per-release breakdown:
 
 ```bash
 gh api repos/iShowkot/ollyo-design-review/releases \
